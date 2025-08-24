@@ -10,3 +10,15 @@ C:\Users\MASSIVE\Desktop\project\Hash tool\Hash Tool\obj\Debug\Hash Tool.exe
 C:\Users\MASSIVE\Desktop\project\Hash tool\Hash Tool\obj\Debug\Hash Tool.pdb
 C:\Users\MASSIVE\Desktop\project\Hash tool\Hash Tool\bin\Debug\BouncyCastle.Crypto.dll
 C:\Users\MASSIVE\Desktop\project\Hash tool\Hash Tool\obj\Debug\Hash Tool.csproj.Up2Date
+C:\Users\MASSIVE\Desktop\Hash Tool\bin\Debug\Hash Tool.exe.config
+C:\Users\MASSIVE\Desktop\Hash Tool\bin\Debug\Hash Tool.exe
+C:\Users\MASSIVE\Desktop\Hash Tool\bin\Debug\Hash Tool.pdb
+C:\Users\MASSIVE\Desktop\Hash Tool\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MASSIVE\Desktop\Hash Tool\obj\Debug\Hash Tool.csproj.AssemblyReference.cache
+C:\Users\MASSIVE\Desktop\Hash Tool\obj\Debug\Hash_Tool.Form1.resources
+C:\Users\MASSIVE\Desktop\Hash Tool\obj\Debug\Hash_Tool.Properties.Resources.resources
+C:\Users\MASSIVE\Desktop\Hash Tool\obj\Debug\Hash Tool.csproj.GenerateResource.cache
+C:\Users\MASSIVE\Desktop\Hash Tool\obj\Debug\Hash Tool.csproj.CoreCompileInputs.cache
+C:\Users\MASSIVE\Desktop\Hash Tool\obj\Debug\Hash Tool.csproj.Up2Date
+C:\Users\MASSIVE\Desktop\Hash Tool\obj\Debug\Hash Tool.exe
+C:\Users\MASSIVE\Desktop\Hash Tool\obj\Debug\Hash Tool.pdb
